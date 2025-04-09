@@ -1,0 +1,12 @@
+../Core/Src/menu.c:23:5:initial_menu	16	static
+../Core/Src/menu.c:69:5:menu_pin	16	static
+../Core/Src/menu.c:154:5:unlock_method	16	static
+../Core/Src/menu.c:177:5:menu_fingerprint_check	24	static
+../Core/Src/menu.c:197:5:menu_facial_check	16	static
+../Core/Src/menu.c:238:5:menu_settings_check	24	static
+../Core/Src/menu.c:324:5:menu_settings	16	static
+../Core/Src/menu.c:350:5:set_doorPIN	16	static
+../Core/Src/menu.c:416:5:menu_modify_FR	16	static
+../Core/Src/menu.c:439:5:menu_delete_FR	24	static
+../Core/Src/menu.c:470:5:menu_record_FR	16	static
+../Core/Src/menu.c:509:5:menu_modify_Facial	24	static
